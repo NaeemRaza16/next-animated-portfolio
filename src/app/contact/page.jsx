@@ -77,6 +77,7 @@ const ContactPage = () => {
           <input
             name="user_email"
             type="text"
+            value={"naeemraza2916@gmail.com"}
             className="bg-transparent border-b-2 border-b-black outline-none"
           />
           <span>Regards</span>
